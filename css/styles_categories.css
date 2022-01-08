@@ -1,0 +1,33 @@
+.categorias{
+    display: flex;
+    justify-content: center;
+}
+
+.categorias label{
+    float: left;
+    border: 0px solid #000;
+    margin: 0 10px 0 10px;
+}
+
+.fa-html5, .fa-css3-alt, .fa-js{
+    font-size: 50px;
+    color: #fff;
+}
+
+.btn-cate{
+    margin: 0 10px 20px 10px;
+    padding: 9px 9px 9px 9px;
+    border-radius: 50px;
+}
+
+.btn-cate1{
+    background-color: rgb(221 75 37);
+}
+
+.btn-cate2{
+    background-color: rgb(0 109 180);
+}
+
+.btn-cate3{
+    background-color: rgb(239 216 29);
+}
