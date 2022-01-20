@@ -7,16 +7,14 @@ input[type="radio"] {
 .container_gallery_column {
 	flex: 100%;
 	padding: 0px;
-border: 0px solid transparent !important;
+	border: 0px solid transparent !important;
 }
 
 .posts{
-
 	display: flex;
 	padding: 0px;
 	flex-wrap: wrap;
 	border: 0px solid #000;
-
 }
 
 .post .ctn-img img{
